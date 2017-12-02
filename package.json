@@ -1,0 +1,22 @@
+{
+  "name": "locationjack",
+  "version": "1.0.0",
+  "description": "hack the location",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devasidmi/locationjack.git"
+  },
+  "author": "vasidimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devasidmi/locationjack/issues"
+  },
+  "homepage": "https://github.com/devasidmi/locationjack#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
